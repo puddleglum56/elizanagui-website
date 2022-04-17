@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/elizanagui-website/static/css/main.eedd1de3.css",
-    "main.js": "/elizanagui-website/static/js/main.c68463b3.js",
-    "static/js/787.f0b1cc5d.chunk.js": "/elizanagui-website/static/js/787.f0b1cc5d.chunk.js",
-    "index.html": "/elizanagui-website/index.html",
-    "main.eedd1de3.css.map": "/elizanagui-website/static/css/main.eedd1de3.css.map",
-    "main.c68463b3.js.map": "/elizanagui-website/static/js/main.c68463b3.js.map",
-    "787.f0b1cc5d.chunk.js.map": "/elizanagui-website/static/js/787.f0b1cc5d.chunk.js.map"
+    "main.css": "/static/css/main.eedd1de3.css",
+    "main.js": "/static/js/main.54af0887.js",
+    "static/js/787.f0b1cc5d.chunk.js": "/static/js/787.f0b1cc5d.chunk.js",
+    "index.html": "/index.html",
+    "main.eedd1de3.css.map": "/static/css/main.eedd1de3.css.map",
+    "main.54af0887.js.map": "/static/js/main.54af0887.js.map",
+    "787.f0b1cc5d.chunk.js.map": "/static/js/787.f0b1cc5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eedd1de3.css",
-    "static/js/main.c68463b3.js"
+    "static/js/main.54af0887.js"
   ]
 }
