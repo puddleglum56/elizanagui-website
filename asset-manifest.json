@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elizanagui-website/static/css/main.073c9b0a.css",
+    "main.js": "/elizanagui-website/static/js/main.f3a9f36f.js",
+    "static/js/787.f0b1cc5d.chunk.js": "/elizanagui-website/static/js/787.f0b1cc5d.chunk.js",
+    "static/media/logo.svg": "/elizanagui-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/elizanagui-website/index.html",
+    "main.073c9b0a.css.map": "/elizanagui-website/static/css/main.073c9b0a.css.map",
+    "main.f3a9f36f.js.map": "/elizanagui-website/static/js/main.f3a9f36f.js.map",
+    "787.f0b1cc5d.chunk.js.map": "/elizanagui-website/static/js/787.f0b1cc5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f3a9f36f.js"
+  ]
+}
