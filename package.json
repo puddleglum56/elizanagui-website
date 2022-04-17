@@ -2,7 +2,7 @@
   "name": "elizanagui-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://puddleglum56.github.io/elizanagui-website",
+  "homepage": "https://elizanagui.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
