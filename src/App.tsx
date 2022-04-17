@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <span className="emoji">😘</span>
         <p>
-          bienvenida amor
+          bienvenida a tu website amor
         </p>
       </header>
     </div>
